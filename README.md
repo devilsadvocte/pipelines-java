@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/day13organization/day13project/_apis/build/status%2Fdevilsadvocte.pipelines-java?branchName=main)](https://dev.azure.com/day13organization/day13project/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
